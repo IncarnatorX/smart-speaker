@@ -1,3 +1,3 @@
 # smart-speaker
 
-https://user-vishnu.github.io/smart-speaker/
+https://IncarnatorX.github.io/smart-speaker/
